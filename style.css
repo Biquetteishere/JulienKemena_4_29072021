@@ -639,7 +639,7 @@ a[data-lightbox]:hover img {
   background: none;
 }
 
-h2 {
+.titrepresentation {
   width: 600px;
   margin: 20px auto;
 }
@@ -786,7 +786,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fccf6f !important;
 }
 
 .btn-atomic-tangerine {
@@ -800,7 +800,7 @@ h4 {
 }
 
 .ltc-white {
-  color: #ffffff !important;
+  color: #fccf6f !important;
 }
 
 .ltc-white:hover {
@@ -833,7 +833,7 @@ h4 {
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.bmp");
+  background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
