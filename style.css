@@ -649,7 +649,6 @@ a[data-lightbox]:hover img {
 
 h4 {
   margin: 5px auto;
-  width: 562px;
   font-size: 21px;
 }
 
@@ -714,8 +713,11 @@ p {
 }
 
 .social {
-  max-width: 400px;
-  margin: auto auto auto auto;
+  margin: 20px auto;
+}
+
+.textecachee {
+  visibility: hidden;
 }
 
 h2 {
