@@ -285,6 +285,27 @@ a:hover {
 .col-sm-4 {
   color: #000000;
 }
+.blocpartenaire {
+  width: 100%;
+  margin: 30px auto;
+}
+
+.partenaire {
+  display: flex;
+}
+
+.partenairelist {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.partenairetxt {
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+  font-size: 18px;
+}
 
 #bloc-1-hero h1 {
   font-size: 32px;
@@ -755,6 +776,10 @@ h4 {
   color: #000000 !important;
 }
 
+.black {
+  color: #000000 !important;
+}
+
 .portfolio-thumb {
   margin-bottom: 24px;
 }
@@ -800,7 +825,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-  background: #c27956 !important;
+  background: #d16e5c !important;
   color: #ffffff !important;
 }
 
