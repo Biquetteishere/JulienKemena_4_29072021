@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-  color: #000000;
+  color: #000000 !important;
 }
 
 .d-bloc .a-btn:hover,
