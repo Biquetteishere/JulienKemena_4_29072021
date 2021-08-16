@@ -664,7 +664,6 @@ a[data-lightbox]:hover img {
 }
 
 .titrepresentation {
-  width: 600px;
   margin: 20px auto;
 }
 
@@ -782,6 +781,7 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  width: 320px;
 }
 
 .portfolio-row {
