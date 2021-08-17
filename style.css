@@ -56,6 +56,13 @@ a:hover {
   padding: 20px 50px;
 }
 
+input:hover,
+textarea:hover,
+input:focus,
+textarea:focus {
+  border: 1px solid #c27956 !important;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
