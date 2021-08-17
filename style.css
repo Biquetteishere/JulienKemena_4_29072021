@@ -741,6 +741,8 @@ p {
 
 .textecachee {
   visibility: hidden;
+  color: #000000;
+  background-color: #d16e5c;
 }
 
 h2 {
